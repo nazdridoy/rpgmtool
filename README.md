@@ -9,6 +9,8 @@ A Python 3 command-line tool for working with RPG Maker archives(RGSS Archives).
 - Configurable encryption keys
 - Verbose debug output
 
+![2024-12-14_22-35](https://github.com/user-attachments/assets/e2f80f46-2b23-44e9-a69e-3f54b563b009)
+
 To extract (or decrypt) files from an archive (`file.rgss3a`) to the current directory, use:
 ```bash
     rpgmtool.py -x file.rgss3a
